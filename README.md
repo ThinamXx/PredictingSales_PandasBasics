@@ -1,4 +1,4 @@
-# **Sales Dataset using Pandas**
+# **Sales Data using Pandas**
 
 Pandas is a high-level data manipulation tool developed by Wes McKinney. It is built on the Numpy package and its key data structure is called the DataFrame. DataFrames allow you to store and manipulate tabular data in rows of observations and columns of variables.
 
@@ -15,3 +15,7 @@ Pandas is a high-level data manipulation tool developed by Wes McKinney. It is b
   * How many Items remain, or Price remains constant during whole period of time?
   * What was the variance of the Number of Items sold per day per sequence for the particular shop on December, 2014?
   
+**Insights & Result**
+- I have plotted a Daily Revenue or Sales of a particular shop in the month of December to draw the insights.
+
+![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596443730/1_ixwvsf.png)
